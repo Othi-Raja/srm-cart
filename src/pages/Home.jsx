@@ -30,16 +30,7 @@ import clock from "../images/clock.svg";
 import gift from "../images/gift.svg";
 import package1 from "../images/package.svg";
 import refresh from "../images/refresh-cw.svg";
-import product1 from "../images/category-baby-care.jpg";
-import product2 from "../images/category-atta-rice-dal.jpg";
-import product3 from "../images/category-bakery-biscuits.jpg";
-import product4 from "../images/category-chicken-meat-fish.jpg";
-import product5 from "../images/category-cleaning-essentials.jpg";
-import product6 from "../images/category-dairy-bread-eggs.jpg";
-import product7 from "../images/category-instant-food.jpg";
-import product8 from "../images/category-pet-care.jpg";
-import product9 from "../images/category-snack-munchies.jpg";
-import product10 from "../images/category-tea-coffee-drinks.jpg";
+ 
 import { Link } from "react-router-dom";
 import React, { useState } from "react";
 import ProductItem from "../ProductList/ProductItem";
