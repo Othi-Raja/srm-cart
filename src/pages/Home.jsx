@@ -16,18 +16,10 @@ import bakerybiscuits from "../images/bakery-biscuits.png";
 import snackmunchies from "../images/snack-munchies.png";
 import fruitsvegetables from "../images/fruits-vegetables.png";
 import dairybreadeggs from "../images/dairy-bread-eggs.png";
-import grocerybanner from "../images/grocery-banner.png";
-import grocerybanner2 from "../images/grocery-banner-2.jpg";
-import map from "../images/map.png";
-import iphone from "../images/iphone-2.png";
-import googleplay from "../images/googleplay-btn.svg";
-import appstore from "../images/appstore-btn.svg";
-import bannerdeal from "../images/banner-deal1.jpg";
-import product11 from "../images/product-img-11.jpg";
-import product12 from "../images/product-img-12.jpg";
-import product13 from "../images/product-img-13.jpg";
+ 
+ 
 import clock from "../images/clock.svg";
-import gift from "../images/gift.svg";
+ 
 import package1 from "../images/package.svg";
 import refresh from "../images/refresh-cw.svg";
  

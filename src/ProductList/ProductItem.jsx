@@ -5,15 +5,7 @@ import Swal from 'sweetalert2';
 const ProductItem = () => {
 
 
-  const handleAddClick = () => {
-    Swal.fire({
-      icon: 'success',
-      title: 'Added to Cart',
-      text: "Product has been added to your cart!",
-      showConfirmButton: true,
-      timer: 3000,
-    });
-  };
+  
   return (
     <div>
       {/* Popular Products Start*/}
